@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  1 13:02:58 2019
-average error
-@author: kw1019
-"""
-
 import numpy as np
 import time
 import matplotlib.pyplot as plt
